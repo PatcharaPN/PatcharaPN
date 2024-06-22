@@ -2,7 +2,14 @@ Hi Im'PatcharaPN
 ==================================================================================================================================
 
 Im looking for Career
-Front-End Developer Full-Stack Developer Mobile Developer
+<ul>
+  <li>Front-End Developer</li>
+  <li>Full-Stack Developer</li>
+  <li>Mobile Developer</li>
+</ul>
+
+
+
 ---------------------
 
 Im learning redux
