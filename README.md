@@ -2,9 +2,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==================================================================================================================================
 
 Im looking for Career
+Front-End Developer Full-Stack Developer Mobile Developer
 ---------------------
 
-Front-End Developer Full-Stack Developer Mobile Developer
+Im learning redux
 
 * 🌍  I'm based in Pathum Thani
 * 🖥️  See my portfolio at [google.com](http://google.com)
