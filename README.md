@@ -14,7 +14,6 @@ Im looking for Career
 Im learning redux
 
 * 🌍  I'm based in Pathum Thani
-* 🖥️  See my portfolio at [google.com](http://google.com)
 * ✉️  You can contact me at [patchara.pn31@gmail.com](mailto:patchara.pn31@gmail.com)
 
 ### Languages
