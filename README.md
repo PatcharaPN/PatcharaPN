@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Looking for career Frontend Developer, Fullstack Developer
+
 
 
 ## 🌐 Socials:
