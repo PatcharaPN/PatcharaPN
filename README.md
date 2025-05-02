@@ -1,5 +1,5 @@
 # 💫 About Me:
-
+Founding Engineer At OBOM GAUGE
 
 
 ## 🌐 Socials:
