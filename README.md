@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left"># Hey there, I'm Patchara 👋<br><br>Fullstack Developer | Based in Pathum Thani  <br>Currently diving deep into **Vue.js**  <br><br>---<br><br>🚀 What I do  <br>- Build scalable web applications with Vue.js & Node.js  <br>- Passionate about clean code and great user experiences  <br><br>📚 Currently Learning  <br>- Vue.js ecosystem & modern frontend tools  <br><br>🎮 Fun stuff  <br>- Gaming enthusiast | Always up for a challenge  <br><br><br>Feel free to connect or ask me anything!</p>
+<p align="left"># Hey there, I'm Patchara 👋<br><br>Fullstack Developer | Based in Pathum Thani  <br>Currently diving deep into Vue.js  <br><br>---<br><br>🚀 What I do  <br>- Build scalable web applications with Vue.js & Node.js  <br>- Passionate about clean code and great user experiences  <br><br>📚 Currently Learning  <br>- Vue.js ecosystem & modern frontend tools  <br><br>🎮 Fun stuff  <br>- Gaming enthusiast | Always up for a challenge  <br><br><br>Feel free to connect or ask me anything!</p>
 
 ###
 
