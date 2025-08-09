@@ -2,11 +2,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=PatcharaPN.PatcharaPN&"  />
 </div>
 
-###
-
-<h1 align="left">👋</h1>
-
-###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
