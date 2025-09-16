@@ -1,22 +1,3 @@
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=PatcharaPN.PatcharaPN&"  />
-</div>
-
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left"># Hey there, I'm Patchara 👋<br><br>Fullstack Developer | Based in Pathum Thani  <br>Currently diving deep into Vue.js  <br><br>---<br><br>🚀 What I do  <br>- Build scalable web applications with Vue.js & Node.js  <br>- Passionate about clean code and great user experiences  <br><br>📚 Currently Learning  <br>- Vue.js ecosystem & modern frontend tools  <br><br>🎮 Fun stuff  <br>- Gaming enthusiast | Always up for a challenge  <br><br><br>Feel free to connect or ask me anything!</p>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-</div>
-
-###
 
 <h3 align="left">🛠 Language and tools</h3>
 
